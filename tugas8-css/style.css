@@ -1,0 +1,53 @@
+body {
+   /* width: 960px;
+   height: 500px;
+   border: 2px solid red;
+   margin: 0 auto; */
+   background-image: url("Stupa_Borobudur.jpg");
+   background-repeat: no-repeat;
+   background-position: center center
+
+}
+
+div {
+   width: 600px;
+   height: 300px;
+   border: 2px solid;
+   /* margin: 0 auto; */
+
+   background-image: url("avocado.jpg");
+   background-color: white;
+   background-repeat: repeat-y;
+   background-attachment: scroll;
+   background-origin: padding-box;
+   background-clip:padding-box;
+   overflow-y: auto;
+   overflow-x: scroll;
+   color: black
+}
+
+.satu {
+  text-align: right;
+  color: blue;
+}
+
+.dua {
+  text-align: left;
+  color: green;
+}
+
+.tiga {
+  text-align: center;
+  color: red;
+}
+
+.repeat {
+   width: 700px;
+   height: 500px;
+   border: 2px solid red;
+   margin: 0 auto;
+   background-image: url("avocado.jpg");
+   background-repeat: repeat-x;
+   background-position: top center;
+   color: blue;
+   align-items:
